@@ -10,7 +10,7 @@ const SCHOOLP3_PLAY_STORE = "https://play.google.com/store/apps/details?id=com.r
 const SCHOOLP3_WEBSITE = "";
 const VEHICLE_DIARY_PLAY_STORE = "https://play.google.com/store/apps/details?id=fleet.vehical.manager";
 const VEHICLE_DIARY_WEBSITE = "";
-const OWPLINKS_WEBSITE = "owplinks.in";
+const OWPLINKS_WEBSITE = "https://owplinks.in/?i=1";
 const OWPLINKS_GITHUB = "";
 
 // Google Form button
